@@ -5,5 +5,4 @@ dependencies:
   - rise
   - pip:
     - jupyter-contrib-nbextensions
-	- ipython-sql
-	
+    - ipython-sql
