@@ -3,6 +3,8 @@ channels:
 dependencies:
   - python
   - rise
+  - conda=4.7.12
+  - pip
   - pip:
     - jupyter-contrib-nbextensions
     - ipython-sql
