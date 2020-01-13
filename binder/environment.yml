@@ -1,8 +1,6 @@
 channels:
   - conda-forge
 dependencies:
-  - conda
-  - pip
   - python
   - rise
   - pip:
